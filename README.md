@@ -1,5 +1,5 @@
 ### Hello World 👋 
-#### I’m Diego Amorim! I am a technology lover and enthusiast.
+#### I’m a technology lover and enthusiast.
 #### I currently work as SRE Engineer and always looking for new knowledge.
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dieg0amorim&show_icons=true&theme=tokyonight&count_private=true)
