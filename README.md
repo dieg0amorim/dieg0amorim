@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&animation=twinkling&fontAligny=35"/>
+
 ### Hello World 👋 
 #### I’m a technology lover and enthusiast.
 #### I currently work as SRE Engineer and always looking for new knowledge.
