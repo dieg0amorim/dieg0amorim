@@ -4,8 +4,6 @@
 #### I’m a technology lover and enthusiast.
 #### I currently work as SRE Engineer and always looking for new knowledge.
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=dieg0amorim&show_icons=true&theme=tokyonight&count_private=true)
-
 ## Languages
 
 <div style="display: inline_block">
